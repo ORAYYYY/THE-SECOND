@@ -1,4 +1,13 @@
-i{
-    color: rgb(4, 99, 99);
+*{
+    color: rgb(1, 67, 67);
     
+}
+.bgclass{
+    background-color: rgb(148, 252, 252)
+
+}
+.bxclass{
+    background-color: rgba(0, 255, 255, 0.559);
+    padding: 10px;
+    text-align: center;
 }
